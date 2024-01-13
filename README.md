@@ -1,29 +1,47 @@
-![Software Developer]
-## Hi 👋, I'm Joy
-### Software Developer
+# Hi there 👋, I'm Joy Krisno Ray
 
+## Software Developer | ASP.Net Core MVC | Web API | MS SQL Server
 
-Hello! I’m Joy Krisno Ray. I am a passionate programmer – an experienced ASP.Net,.NetCore Mvc, Web Api, web aplication,Jquery,Boostrap, SQL Server, as a developer with 2 years experience. And Basic knowledge in: Design etc.
+Hello! I’m Joy Krisno Ray, a passionate software developer with 2 years of experience in ASP.Net, .Net Core MVC, Web API, and MS SQL Server. I specialize in crafting web applications with a strong foundation in C#, HTML, CSS, Bootstrap, and more.
 
-Skills:  C# | ASP.Net | Razor Pages|. NetCore, MVC| Web Api |MS SQL Server
+### Skills:
 
-- 🔭 I’m currently working on this page. 
+- C#
+- ASP.Net Core MVC
+- Web API
+- MS SQL Server
+- Bootstrap
+- HTML
+- CSS
 
+🔭 I’m currently working on refining this GitHub profile.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joykrisno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joy-krisno-ray//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/joykrisnoray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/joykrisnoray/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/joykrisnoray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22094460/joy-krisno-ray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@JOYSolution)  
+### Connect with me:
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[![GitHub](https://img.shields.io/badge/GitHub-joykrisno-blue)](https://github.com/joykrisno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Krisno%20Ray-blue)](https://www.linkedin.com/in/joy-krisno-ray/)
+[![Facebook](https://img.shields.io/badge/Facebook-Joy%20Krisno%20Ray-blue)](https://www.facebook.com/joykrisnoray)
+[![Instagram](https://img.shields.io/badge/Instagram-joykrisnoray-blue)](https://www.instagram.com/joykrisnoray/)
+[![Twitter](https://img.shields.io/badge/Twitter-joykrisnoray-blue)](https://twitter.com/joykrisnoray)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Joy%20Krisno%20Ray-orange)](https://stackoverflow.com/users/22094460/joy-krisno-ray)
+[![YouTube](https://img.shields.io/badge/YouTube-JOY%20Solution-red)](https://www.youtube.com/channel/UC9MZBSL9NRpWwOQ6-x8x3sA)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joykrisno)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joykrisno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joykrisno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joykrisno&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joykrisno&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joykrisno)  
+### Activity and Streak:
 
-![GitHub metrics](https://metrics.lecoq.io/joykrisno)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joykrisno)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=joykrisno)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=joykrisno)
 
-![Profile views](https://gpvc.arturio.dev/joykrisno)  
+### Profile Metrics:
+
+![GitHub metrics](https://metrics.lecoq.io/joykrisno)
+
+### Profile Views:
+
+![Profile views](https://gpvc.arturio.dev/joykrisno)
