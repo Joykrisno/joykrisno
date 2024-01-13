@@ -1,11 +1,11 @@
 ![Software Developer]
-### Hi there 👋, I'm Joy
-#### Software Developer
+## Hi 👋, I'm Joy
+### Software Developer
 
 
-Hello! I’m Joy Krisno Ray. I am a passionate programmer – an experienced ASP.Net,web aplication, SQL Server, as a developer with 2 years experience. And Basic knowledge in: Design etc.
+Hello! I’m Joy Krisno Ray. I am a passionate programmer – an experienced ASP.Net,.NetCore Mvc, Web Api, web aplication,Jquery,Boostrap, SQL Server, as a developer with 2 years experience. And Basic knowledge in: Design etc.
 
-Skills:  C# | ASP.Net | Razor Pages|. NetCore, MVC| Web service |MS SQL Server
+Skills:  C# | ASP.Net | Razor Pages|. NetCore, MVC| Web Api |MS SQL Server
 
 - 🔭 I’m currently working on this page. 
 
