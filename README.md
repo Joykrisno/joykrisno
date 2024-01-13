@@ -13,6 +13,8 @@ Hello! I’m Joy Krisno Ray, a passionate software developer with 2 years of exp
 - Bootstrap
 - HTML
 - CSS
+- Jquery
+- Javascript
 
 🔭 I’m currently working on refining this GitHub profile.
 
