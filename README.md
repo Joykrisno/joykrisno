@@ -1,9 +1,9 @@
-![Software Developer](https://media.licdn.com/dms/image/D5616AQHOCLqxRIxi7w/profile-displaybackgroundimage-shrink_350_1400/0/1692346235678?e=1697673600&v=beta&t=nRIiPfreHn0kyeHivjG_3aZzocwRi1oqnP22G6QYIxk)
+![Software Developer]
 ### Hi there 👋, I'm Joy
 #### Software Developer
 
 
-Hello! I’m Joy Krisno Ray. I am a passionate programmer – an experienced ASP.Net,web aplication, SQL Server, as a developer with 1 years experience. And Basic knowledge in: Design etc.
+Hello! I’m Joy Krisno Ray. I am a passionate programmer – an experienced ASP.Net,web aplication, SQL Server, as a developer with 2 years experience. And Basic knowledge in: Design etc.
 
 Skills:  C# | ASP.Net | Razor Pages|. NetCore, MVC| Web service |MS SQL Server
 
