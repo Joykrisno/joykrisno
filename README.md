@@ -32,16 +32,4 @@ Hello! I’m Joy Krisno Ray, a passionate software developer with 2 years of exp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joykrisno&show_icons=true&count_private=true)
 
-### Activity and Streak:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joykrisno)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=joykrisno)
-
-### Profile Metrics:
-
-![GitHub metrics](https://metrics.lecoq.io/joykrisno)
-
-### Profile Views:
-
-![Profile views](https://gpvc.arturio.dev/joykrisno)
+ 
