@@ -2,7 +2,7 @@
 
 ## Software Developer | ASP.Net Core MVC | Web API | MS SQL Server
 
-Hello! I’m Joy Krisno Ray, a passionate software developer with 2 years of experience in ASP.Net, .Net Core MVC, Web API, and MS SQL Server. I specialize in crafting web applications with a strong foundation in C#, HTML, CSS, Bootstrap, and more.
+Hello! I’m Joy Krisno Ray, a passionate software developer with 3 years of experience in ASP.Net, .Net Core MVC, Web API, and MS SQL Server. I specialize in crafting web applications with a strong foundation in C#, HTML, CSS, Bootstrap, and more.
 
 ### Skills:
 
