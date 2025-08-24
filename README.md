@@ -30,8 +30,9 @@ Hello! I’m Joy Krisno Ray, a passionate software developer with 3 years of exp
 
 ### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joykrisno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![C#](https://img.shields.io/badge/C%23-89%25-blue?style=for-the-badge&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-55%25-yellow?style=for-the-badge&logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-53%25-orange?style=for-the-badge&logo=html5)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joykrisno&show_icons=true&count_private=true)
-
  
